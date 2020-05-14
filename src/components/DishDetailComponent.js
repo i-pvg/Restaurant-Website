@@ -244,7 +244,7 @@ function RenderComments({ comments }) {
       </div>
     );
   } else return <div />;
-}
+} 
 
 const DishDetail = props => (
   <div className="container">
